@@ -1,12 +1,11 @@
 # Exp-6_Java_22BCS_IOT-637BRichaE11307
 
-Develop web applications using Servlets and JSP for user input handling, database integration.
-
+Develop Java programs using lambda expressions and stream operations for sorting, filtering, and processing large datasets efficiently.
 
 Easy Level:
-Write a servlet to accept user credentials through an HTML form and display a personalized welcome message if the login is successful.
+Write a program to sort a list of Employee objects (name, age, salary) using lambda expressions.
 Medium Level:
-Create a servlet integrated with JDBC to display a list of employees from a database. Include a search form to fetch employee details by ID.
+Create a program to use lambda expressions and stream operations to filter students scoring above 75%, sort them by marks, and display their names.
 Hard Level:
-Develop a JSP-based student portal. Include a form for entering attendance details and save them to the database using a servlet.
+Write a Java program to process a large dataset of products using streams. Perform operations such as grouping products by category, finding the most expensive product in each category, and calculating the average price of all products.
 
